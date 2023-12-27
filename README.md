@@ -4,7 +4,8 @@
 
 To be provided separately as a word doc for students to include with every submission
 
-Module Title: Artificial Intelligence 
+Module Title: Artificial Intelligence / Data Visualisation & Comms
+
 
 Assessment Title: AI_DV _Lv8_ICA_v5
 
